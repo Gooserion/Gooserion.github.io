@@ -131,6 +131,7 @@ img {
 }
 .header-bottom-container {
 	display: flex;
+	justify-content: space-between;
 	align-items: center;
 	padding: 14px 45px;
 	background-color: #FFF;
@@ -156,13 +157,12 @@ img {
 }
 .header-bottom-right {
 	display: flex;
-	align-self: flex-end;
 	font-size: 16px;
 	line-height: 16px;
 	font-weight: 400;
 }
 .want-tour {
-	margin-left: 114px;
+	margin-left: auto;
 	margin-right: 40px;
 	padding: 13px 20px;
 	border: 1px solid #c93;
@@ -173,6 +173,7 @@ img {
 	color: #CC9933;
 }
 .back-call {
+	margin-right: 0;
 	padding: 13px 20px;
 	border: 1px solid #c93;
 	border-radius: 10px;
