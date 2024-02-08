@@ -169,6 +169,7 @@ img {
 	border-radius: 10px;
 }
 .want-tour-link {
+	white-space: nowrap;
 	color: #CC9933;
 }
 .back-call {
@@ -177,6 +178,7 @@ img {
 	border-radius: 10px;
 }
 .back-call-link {
+	white-space: nowrap;
 	color: #CC9933;
 }
 
